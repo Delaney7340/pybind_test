@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/josep/Desktop/pybind_test/build",
+  "command": "C:\\MinGw\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Users\\josep\\Desktop\\pybind_test\\main.cpp",
+  "file": "C:/Users/josep/Desktop/pybind_test/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+}
+]
